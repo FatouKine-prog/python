@@ -20,4 +20,7 @@ Version 1 : Le mot de passe est généré avec le premier caractère de chaque m
 -	La lettre s est remplacée par le caractère spécial $
 -	La lettre o est remplacée par le chiffre 0
 
-Annexe théorique : En Python, une chaîne de caractères est considérée comme une liste des caractères. Et toutes les fonctions sur la liste est valable pour la chaîne de caractères
+
+Voici le résultat de ce programme:
+
+<img width="518" alt="Capture d’écran 2025-01-10 113630" src="https://github.com/user-attachments/assets/66486c44-6322-401f-9c69-6d60ea54a495" />
